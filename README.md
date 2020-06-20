@@ -1,2 +1,2 @@
-# BatmanPriddyBlog.github.io
+# Blog Web Site
 Test blog
